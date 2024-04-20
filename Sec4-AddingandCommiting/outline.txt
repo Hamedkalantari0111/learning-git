@@ -3,3 +3,6 @@ Chapter 1
 new section for chapter one is available
 new section again
 chapter 1 was updated
+
+Chapter 2: 
+text was added to this chapter. 
