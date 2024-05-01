@@ -4,3 +4,4 @@ yellow
 green
 blue
 indigo
+violet
